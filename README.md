@@ -1,6 +1,6 @@
 ![Logo commit42](https://github.com/commit42/new-site-c42/blob/mvp/static/assets/logo-c42.png)
 
-# Nouveau Site de commit42 :sparkles:
+# MVP du nouveau site de commit42 :tada:
 
 [commit42](https://www.commit42.fr/) refait son site avec la stack suivante: GatsbyJS + Semantic UI React + Netlify CMS = :heart:
 
