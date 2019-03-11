@@ -4,6 +4,10 @@
 
 [commit42](https://www.commit42.fr/) refait son site avec la stack suivante: GatsbyJS + Semantic UI React + Netlify CMS = :heart:
 
+## :sparkles: Demo
+
+[https://mvp-commit42.netlify.com/](https://mvp-commit42.netlify.com/)
+
 ## :rocket: Quick Start
 
 1.  Forker ce repo
@@ -26,3 +30,4 @@
     ```
 
     Aller voir à l'adresse ```http://localhost:8000```
+
