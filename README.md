@@ -13,7 +13,7 @@
 1.  Forker ce repo
 1.  Aller dans le dossier
     ``` 
-    cd new-site-c42
+    cd mvp-commit42
     ```
 1.  Installer les dépendances
        ```
